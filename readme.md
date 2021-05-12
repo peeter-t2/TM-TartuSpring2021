@@ -2,7 +2,11 @@
 
 Kasutatud Tartu Ülikooli kursusel HVEE.01.006 Suurte tekstiandmete töötlemine ja analüüs humanitaarteadustes
 
-2020, Peeter Tinits (CC-BY-4.0)
+2021, Peeter Tinits (CC-BY-4.0)
+
+## Kasutamine
+
+Käivita kasutuskeskkond [siit](https://mybinder.org/v2/gh/peeter-t2/TM-TartuSpring2021/main?urlpath=rstudio).
 
 
 ## Install
@@ -15,7 +19,7 @@ R-i kasutamiseks on vaja installida R ja RStudio. Arvutiklassis Jakobi 2-406 on 
 2) Installi RStudio: https://www.rstudio.com/products/rstudio/download/
 
 ## Lae alla failid
-1) Vajuta download .zip lingile rohelisel nupul paremal ülal, või siia lingile: https://github.com/peeter-t2/TM-TartuSpring2019/archive/master.zip
+1) Vajuta download .zip lingile rohelisel nupul paremal ülal, või siia lingile: https://github.com/peeter-t2/TM-TartuSpring2021/archive/refs/heads/main.zip
 2) Paki lahti failid
 
 ## Lae failid alla Git-iga
